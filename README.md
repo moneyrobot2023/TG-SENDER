@@ -89,9 +89,9 @@ venv\Scripts\activate
 #
 9.pip install telebot
 #
-сборка в ехе в 1 файл pyinstaller --onefile Путь до файла script.py
+сборка в ехе в 1 файл pyinstaller --onefile Путь до файла TG-SENDER.py
 #
-в моём случае это C:\Users\soft_nulled_2023\0\1\script.py
+в моём случае это C:\Users\soft_nulled_2023\0\1\TG-SENDER.py
 #
-pyinstaller --onefile C:\Users\soft_nulled_2023\0\1\script.py
+pyinstaller --onefile C:\Users\soft_nulled_2023\0\1\TG-SENDER.py
 #
