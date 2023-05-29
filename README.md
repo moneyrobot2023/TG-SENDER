@@ -72,14 +72,26 @@ venv\Scripts\activate
 
 
 1.pip install pandas
+#
 2.pip install xlrd
+#
 3.pip install pyautogui
+#
 4.pip install Telethon
+#
 5.pip install telegrambaseclient
+#
 6.pip install sync
+#
 7.pip install import
+#
 8.pip install pyinstaller
+#
 9.pip install telebot
+#
 сборка в ехе в 1 файл pyinstaller --onefile Путь до файла script.py
+#
 в моём случае это C:\Users\soft_nulled_2023\0\1\script.py
+#
 pyinstaller --onefile C:\Users\soft_nulled_2023\0\1\script.py
+#
